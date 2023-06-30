@@ -21,7 +21,7 @@ Count Vectorizer ,accuracy prediction.
 
 5)	Diwali sales Analysis using Advance Excel :  In this project  , I have created Interactive dashboard which projects business scenarios annually across year, channels, product categories.
 
-Techniques used : Importing Data, Data cleaning, Transforming Data, Pivot tables, creating charts , slicers, interlinking different charts and creating and interactive Dashboard.
+Techniques used : Importing Data, Data cleaning,Transforming Data, Pivot tables, creating charts , slicers, interlinking different charts and creating and interactive Dashboard.
 
 
 
